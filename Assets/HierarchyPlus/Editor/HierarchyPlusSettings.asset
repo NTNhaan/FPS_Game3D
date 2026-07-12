@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280cd4880c6ccdc4c997174098177a5c, type: 3}
+  m_Name: HierarchyPlusSettings
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::HierarchyPlus.Editor.HierarchyPlusSettings
+  enabled: 1
+  rightPadding: 6
+  iconSize: 16
+  toggleSize: 16
+  iconGap: 2
+  drawActiveToggle: 1
+  drawComponentIcon: 1
+  drawHeaderRuleByName: 1
+  headerPrefix: ---
+  headerBackground: {r: 0.18, g: 0.18, b: 0.18, a: 1}
+  headerText: {r: 1, g: 1, b: 1, a: 1}
+  inactiveTint: {r: 1, g: 1, b: 1, a: 0.45}
